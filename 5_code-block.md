@@ -108,13 +108,12 @@ plain1
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-```text
+~~~
 # CodeBlock\(\`\`\`\)
 
 ```text
 code block
 ```
-
 
 {% code-tabs %}
 {% code-tabs-item title="bash." %}
@@ -140,9 +139,9 @@ line3
 
 {% code-tabs %}
 {% code-tabs-item title="filename.swift" %}
-<!-- ```swift
+```swift
 print("hello world")
-``` -->
+```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
@@ -214,10 +213,9 @@ aaa
 {% endcode-tabs-item %}
 
 {% code-tabs-item title=undefined %}
-```
+```text
 plain1
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-```
-
+~~~
