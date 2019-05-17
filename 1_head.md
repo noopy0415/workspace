@@ -10,7 +10,7 @@
 <br>
 <br>
 
-```
+```markdown
 # head
 
 ## これがH1です
