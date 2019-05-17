@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
   * [Head](1_header/README.md)
-    * [headの中](1_header/heddno.md)
+  * [headの中](1_header/heddno.md)
   * [Bulleted list\(・\)](2_bulleted-list.md)
   * [Ordered list\(1.\)](3_untitled.md)
   * [task list\(□\)](4_untitled-1.md)
