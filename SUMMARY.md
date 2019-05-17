@@ -4,7 +4,7 @@
   <!-- * [Head](1_header/README.md) -->
   * [head](1_header.md)
   * [Bulleted list\(・\)](2_bulleted-list.md)
-  * [Ordered list\(1.\)](3_untitled.md)
+  * [Ordered list\(1.\)](3_ordered-list.md)
   * [task list\(□\)](4_untitled-1.md)
   * [CodeBlock\(\`\`\`\)](5_untitled-2.md)
   * [quoto\(引用\)](6_quoto-yin-yong.md)
