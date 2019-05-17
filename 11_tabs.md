@@ -10,7 +10,7 @@
 {% endtab %}
 {% endtabs %}
 
-```
+```text
 # Tabs
 
 {% tabs %}

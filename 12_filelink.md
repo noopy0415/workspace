@@ -2,7 +2,9 @@
 
 {% file src=".gitbook/assets/suharutakyanfuinswift.jpg" caption="Fileのリンク" %}
 
-```# FileLink
+\`\`\`\# FileLink
 
 {% file src=".gitbook/assets/suharutakyanfuinswift.jpg" caption="Fileのリンク" %}
-```
+
+\`\`\`
+

@@ -102,17 +102,13 @@ aaa
 {% endcode-tabs-item %}
 
 {% code-tabs-item title=undefined %}
-```
+```text
 plain1
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-<br>
-<br>
-<br>
-
-````
+```text
 # CodeBlock\(\`\`\`\)
 
 ```text
@@ -223,4 +219,5 @@ plain1
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-````
+```
+
