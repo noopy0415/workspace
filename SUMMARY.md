@@ -10,7 +10,7 @@
 * [image](7_image.md)
 * [Table](8_table.md)
 * [Hint](9_hint.md)
-* [PageLink](pagelink.md)
+* [PageLink](10_pagelink.md)
 * [Tabs](11_tabs.md)
 * [FileLink](12_filelink.md)
 
