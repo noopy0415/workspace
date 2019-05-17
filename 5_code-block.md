@@ -112,14 +112,13 @@ plain1
 <br>
 <br>
 
-```
+````
 # CodeBlock\(\`\`\`\)
 
-<!--
 ```text
 code block
 ```
--->
+
 
 {% code-tabs %}
 {% code-tabs-item title="bash." %}
@@ -224,4 +223,4 @@ plain1
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-```
+````
