@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
   <!-- * [Head](1_header/README.md) -->
-  * [head](1_header.md)
+  * [head](1_head.md)
   * [Bulleted list\(・\)](2_bulleted-list.md)
   * [Ordered list\(1.\)](3_ordered-list.md)
   * [task list\(□\)](4_task-list.md)
